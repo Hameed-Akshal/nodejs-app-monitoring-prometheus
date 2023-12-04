@@ -1,4 +1,4 @@
-#### This project is for the Devops bootcamp module "Monitoring"
+#### This project is for the Devops module - Prometheus "Monitoring"
 
 ##### Metrics
 The project exposes metrics on /metrics endpoint
